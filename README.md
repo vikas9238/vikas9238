@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi there, I'm Vikas!
 
-<!--
-**vikas9238/vikas9238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer who loves building, learning, and collaborating on innovative projects.
+Here's a little about me:
 
-Here are some ideas to get you started:
+💻 About Me
+🔭 I’m currently working on: LeetLab, TaskManagement
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m learning: MERN
+
+👯 I’m looking to collaborate on: Open-source projects, startups, or freelance gigs
+
+💬 Ask me about: JavaScript, Node.js, Laravel, APIs, or anything tech-related
+
+⚡ Fun fact: I drink code and debug dreams 😄
